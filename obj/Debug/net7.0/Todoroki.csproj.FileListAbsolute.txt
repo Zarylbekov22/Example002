@@ -1,0 +1,15 @@
+D:\Zarylbekov Rabota\Todoroki\bin\Debug\net7.0\Todoroki.exe
+D:\Zarylbekov Rabota\Todoroki\bin\Debug\net7.0\Todoroki.deps.json
+D:\Zarylbekov Rabota\Todoroki\bin\Debug\net7.0\Todoroki.runtimeconfig.json
+D:\Zarylbekov Rabota\Todoroki\bin\Debug\net7.0\Todoroki.dll
+D:\Zarylbekov Rabota\Todoroki\bin\Debug\net7.0\Todoroki.pdb
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.csproj.AssemblyReference.cache
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.AssemblyInfoInputs.cache
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.AssemblyInfo.cs
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.csproj.CoreCompileInputs.cache
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.dll
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\refint\Todoroki.dll
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.pdb
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\Todoroki.genruntimeconfig.cache
+D:\Zarylbekov Rabota\Todoroki\obj\Debug\net7.0\ref\Todoroki.dll
